@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "BarkSpark",
+    "slug": "barkspark",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.barkspark.app"
+    },
+    "android": {
+      "package": "com.barkspark.app"
+    }
+  }
+}
